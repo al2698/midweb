@@ -47,5 +47,5 @@ async function create(ctx) {
   }
 }
 
-console.log('Server run at http://127.0.0.1:8032')
+console.log('Server run at http://172.104.100.202:8032')
 await app.listen({ port: 8032});
