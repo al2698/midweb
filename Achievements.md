@@ -1,0 +1,12 @@
+| 圖標                                                         | 成就名                        | 獲取方式                                                     |
+| :----------------------------------------------------------- | :---------------------------- | :----------------------------------------------------------- |
+| [![img](https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png)](https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png) | Arctic Code Vault Contributor | 絕版，提交過的代碼在2020 年被GitHub Archive Program 北極代碼庫收錄 |
+| [![img](https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png)](https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png) | Galaxy Brain                  | 回答別人的discussion 並被評為最佳答案                        |
+| [![img](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png) | Pull Shark                    | 提交的PR 被合併                                              |
+| [![img](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png)](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png) | Starstruck                    | 個人項目獲得很多星（這裡我不確定具體數目，我的成就寫的是512 stars） |
+| [![img](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png)](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png) | YOLO                          | 不評審直接合併代碼，目前邏輯是自己合併自己的也算，有較大爭議的成就 |
+| [![img](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png)](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png) | Quickdraw                     | 建立issue 並在5 分鐘之內關掉，目前邏輯是自己關閉自己的也算   |
+| [![img](https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png)](https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png) | Pair Extraordinaire           | 創建多作者提交，發PR，合併（關於如何創建多作者提交，請參考[這篇幫助](https://docs.github.com/cn/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors)） |
+
+---
+參考至https://www.imaegoo.com/2022/github-achievements/
